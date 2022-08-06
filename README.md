@@ -5,7 +5,6 @@ Te pasan el siguiente codigo y te comentan que requiere lo siguiente...
 2. agregar en el primer mensaje el nombre de la persona y los apellidos en el alert.
 3. Alguien creeo unas funciones de suma y resta.  Se requiere mostrar el resultado de la suma y la resta cada una en su alert respectivamente.
 4. Se requiere evitar que en consola salga la contraseña: "AgrRkeTz"
-5. Agregar una etiqueta de titulo(HTML) al inicio del body con tu nombre ej. "Jesus Cardenas"
 
 
 ## Ejemplo de respuestas:
